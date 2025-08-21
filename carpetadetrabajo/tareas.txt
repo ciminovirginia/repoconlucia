@@ -2,3 +2,4 @@ tareas
 . apredner github
 . usar github
 . crear commits
+esta linea por el momento esta solamente en la rama 1
