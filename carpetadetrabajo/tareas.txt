@@ -1,0 +1,4 @@
+tareas
+. apredner github
+. usar github
+. crear commits
